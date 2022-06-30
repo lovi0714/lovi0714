@@ -1,5 +1,7 @@
 ### 반갑습니다 😀
 
+![lovi0714's github stats](https://github-readme-stats.vercel.app/api?username=lovi0714&show_icons=true)
+
 [소개](https://lovi0714.github.io/resume/)
 
 [Blog](https://velog.io/@lovi0714)
